@@ -1,0 +1,625 @@
+@media (max-width: 1440px) {
+    .container{
+        width: 90%;
+    }
+
+    .hero-block {
+        margin-left: -66px;
+    }
+
+    .see-hi {
+        margin-left: 1px;
+    }
+
+    .meet {
+        margin-left: -705px;
+    }
+
+    .when {
+        width: 312px;
+    }
+
+    .worm {
+        width: 314px;
+    }
+
+}
+
+@media (max-width: 1200px) {
+    .container{
+        width: 90%;
+    }
+
+    .hero-keep {
+        display: none;
+    }
+
+    .hero-lie {
+        display: none;
+    }
+
+    .hero {
+        justify-content: inherit;
+    }
+
+    .see-hi {
+        margin-left: 181px;
+    }
+
+    .shoot {
+        margin: 1374px 0 0 -49px;
+    }
+
+    .find {
+        margin: 404px 1px 0 115px;
+    }
+
+    .meet-mi{
+        margin: 0 0 0 0;
+    }
+
+    .meet {
+        margin: 341px 0 0 -57px;
+    }
+
+    .meet1 {
+        margin: 341px 0 0 -200px;
+    }
+
+    .never{
+        margin: 929px 0 0 -442px;
+    }
+
+    #header {
+        height: 1835px;
+    }
+
+    .header-ask a {
+        margin: 1033px 0 0 24px;
+    }
+
+    .header-link a {
+        margin: 116px -10px 0 16px;
+    }
+
+
+}
+
+@media (max-width: 1024px) {
+    .container{
+        width: 90%;
+    }
+
+    #header {
+        display: none;
+    }
+
+    .hero {
+        margin: 0 0 0 -195px;
+    }
+
+    .see-hi {
+        margin-left: 44px;
+    }
+
+    .meet {
+        margin: 341px 0 0 -56px;
+    }
+
+    .meet1 {
+        margin: 341px 0 0 -162px;
+    }
+
+    .find {
+        margin: 404px 1px 0 88px;
+    }
+
+    .never {
+        margin: 929px 0 0 -481px;
+    }
+
+
+}
+
+@media (max-width: 992px) {
+    .container{
+        width: 90%;
+    }
+
+    .shoot {
+        margin: 1374px 0 0 -19px;
+    }
+
+    .meet {
+        margin: 341px 0 0 -14px;
+    }
+
+    .meet1 {
+        margin: 341px 0 0 -84px;
+    }
+
+
+
+
+}
+
+@media (max-width: 768px) {
+    .container{
+        width: 90%;
+    }
+
+    .hero {
+        margin: 0 0 0 -260px;
+    }
+
+    .see-hi {
+        margin-left: -61px;
+    }
+
+    .tea {
+        justify-content: space-around;
+    }
+
+    .find {
+        margin: 404px 1px 0 -1px;
+    }
+
+    .never {
+        margin: 929px 0 0 -561px;
+    }
+
+    .hero-input {
+        margin-left: 365px;
+    }
+
+    .shoot {
+        margin: 1374px 0 0 -4px;
+    }
+
+
+}
+
+@media (max-width: 576px) {
+    .container{
+        width: 90%;
+    }
+
+    .lose{
+        width: 90%;
+    }
+
+    .see-hi {
+        width: 526px;
+    }
+
+    .see-hi {
+        margin-left: -101px;
+    }
+
+
+    .grow p {
+        font-size: 16px;
+    }
+
+    .grow h2 {
+        font-size: 13px;
+        margin-bottom: -18px;
+    }
+
+    .hero-input {
+        margin-left: 37px;
+    }
+
+    .have a {
+        margin-left: 414px;
+    }
+
+    .hero {
+        margin: 0 0 0 -338px;
+    }
+
+    .meet {
+        margin: 341px 0 0 -137px;
+    }
+
+    .meet1 {
+        margin: 341px 0 0 -163px;
+    }
+
+    .lenovo{
+        width: 90%;
+    }
+
+    .sweep {
+        margin: 22px 0 0 209px;
+    }
+
+    .shoot {
+        width: 510px;
+        height: 234px;
+        margin: 1329px 0 0 -9px;
+    }
+
+    .wake-nino p {
+        margin-bottom: 9px;
+    }
+
+    .find-block {
+        margin: 27px 0 0 -56px;
+    }
+
+
+    .hurt {
+        margin: 19px 0 0 -14px;
+    }
+
+    .find {
+        margin: 365px 1px 0 -25px;
+        width: 498px;
+        height: 227px;
+    }
+
+    .do-nino p {
+        margin-bottom: 13px;
+    }
+
+    .never-rule {
+        margin: -251px 0 0 651px;
+    }
+
+    .when {
+        margin: 39px 0 0 617px;
+    }
+
+    .aunt {
+        margin: 34px 0 0 658px;
+    }
+
+    .worm {
+        margin: 29px 0 0 625px;
+    }
+
+    .meet {
+        margin: 341px 0 0 -28px;
+    }
+
+    .meet1 {
+        margin: 341px 0 0 18px;
+    }
+
+
+
+}
+
+@media (max-width: 450px) {
+    .container{
+        width: 90%;
+    }
+
+    .hero-input {
+        width: 173px;
+    }
+
+    .see-hi {
+        width: 393px;
+        height: 597px;
+    }
+
+    .lose {
+
+        margin-top: 306px;
+    }
+
+    .grow {
+        margin-left: 120px;
+    }
+
+    .grow h1 {
+        padding: 20px 46px;
+    }
+
+    .grow p {
+        font-size: 16px;
+        text-align: center;
+        margin-left: -24px;
+    }
+
+    .grow h2 {
+        font-size: 12px;
+        margin-bottom: -14px;
+        text-align: center;
+        margin-left: -23px;
+    }
+
+    .rito1 {
+        width: 35px;
+        margin-left: 4px;
+    }
+
+
+    .sell1{
+        display: none;
+    }
+
+    .sell2 {
+        display: none;
+    }
+
+    .lose {
+        margin: 405px 0 0 -278px;
+    }
+
+
+    .shoot {
+        width: 405px;
+        height: 201px;
+        margin: 2373px 0 0 -2px;
+    }
+
+    .meet {
+        margin: 671px 0 0 20px;
+    }
+
+    .meet1 {
+        margin: 867px 0 0 -383px;
+    }
+
+
+
+    .find {
+        margin: 310px 1px 0 7px;
+        width: 395px;
+        height: 197px;
+    }
+
+    .find-block {
+        margin: 27px 0 0 -15px;
+    }
+
+    .do-nino p {
+        margin-bottom: 7px;
+    }
+
+    .never-rule {
+        margin: 122px 0 0 630px;
+    }
+
+
+    .when {
+        margin: 51px 0 0 595px;
+    }
+
+    .wake-nino p {
+        margin-bottom: 5px;
+    }
+
+    #hero{
+        padding: 0;
+        width: 100%;
+    }
+
+    .hero {
+        margin: 34px 0 0 -338px;
+    }
+
+    .never {
+        margin: 570px 0 0 -561px;
+    }
+
+    .aunt {
+        margin: 49px 0 0 627px;
+    }
+
+    .worm {
+        margin: 43px 0 0 590px;
+    }
+}
+
+@media (max-width: 425px) {
+    .container{
+        width: 90%;
+    }
+
+    .see-hi {
+        margin-left: -112px;
+    }
+
+    .shoot {
+        width: 397px;
+        margin: 2373px 0 0 -3px;
+    }
+
+    .find {
+        margin: 310px 1px 0 -6px;
+        width: 390px;
+    }
+
+}
+
+@media (max-width: 380px) {
+    .container{
+        width: 90%;
+    }
+
+    .hero {
+        margin: 27px 0 0 -375px;
+    }
+
+    .see-hi {
+        margin-left: -108px;
+        width: 90%;
+        border-radius: inherit;
+    }
+
+
+    .meet {
+        width: 90%;
+        margin: 671px 0 0 26px;
+    }
+
+    .meet1 {
+        width: 90%;
+        margin: 867px 0 0 -302px;
+    }
+
+    .shoot {
+        width: 90%;
+        height: 170px;
+        overflow: hidden;
+        margin: 2373px 0 0 -19px;
+    }
+
+    .wake-nino p {
+        margin-bottom: 1px;
+    }
+
+    .shoot-block select {
+        width: 114px;
+        height: 38px;
+        margin-left: -16px;
+    }
+
+    .rito1 {
+        width: 33px;
+        height: 25px;
+        margin-left: 5px;
+    }
+
+    .sweep {
+        margin: 22px 0 0 154px;
+    }
+
+    .find {
+        margin: 310px 1px 0 -9px;
+        width: 90%;
+        height: 172px;
+    }
+
+    .do-nino p {
+        margin-bottom: 3px;
+    }
+
+    .never-rule {
+        margin: 122px 0 0 556px;
+    }
+
+    .when {
+        margin: 51px 0 0 535px;
+        width: 284px;
+    }
+
+    .aunt {
+        margin: 49px 0 0 561px;
+    }
+
+    .worm {
+        margin: 43px 0 0 522px;
+        width: 307px;
+    }
+
+    .grow {
+        margin-left: 77px;
+    }
+
+    .never {
+        margin: 570px 0 0 -527px;
+    }
+
+
+}
+
+@media (max-width: 370px) {
+    .container{
+        width: 90%;
+    }
+}
+
+@media (max-width: 320px) {
+    .container{
+        width: 90%;
+    }
+
+    .hero {
+        margin: 23px 0 0 -398px;
+    }
+
+    .see-hi {
+        width: 330px;
+        margin-left: -142px;
+    }
+
+    .meet1 {
+        margin: 867px 0 0 -273px;
+    }
+
+    .meet {
+        margin: 671px 0 0 0;
+    }
+
+    .shoot {
+        width: 90%;
+        height: 170px;
+        overflow: hidden;
+        margin: 2373px 0 0 -7px;
+    }
+
+    .sweep {
+        margin: 22px 0 0 112px;
+    }
+
+    .lenovo {
+        margin-top: 5px;
+    }
+
+    .find {
+        margin: 310px 1px 0 -13px;
+        width: 297px;
+    }
+
+    .find-block h1 {
+        font-size: 16px;
+
+    }
+
+    .never-rule {
+        margin: 99px 0 0 530px;
+    }
+
+    .when {
+        margin: 51px 0 0 514px;
+        width: 265px;
+    }
+
+    .aunt {
+        margin: 49px 0 0 530px;
+    }
+
+    .worm {
+        margin: 43px 0 0 522px;
+        width: 252px;
+    }
+
+    .Github {
+        margin: 8px 0 0 86px;
+    }
+
+    .in p {
+        margin-bottom: 32px;
+    }
+
+    .sell6 {
+        display: none;
+
+    }
+
+    .rito1 {
+        width: 27px;
+        height: 22px;
+    }
+
+    .sell4 {
+        position: relative;
+        margin: -124px 1px 0 113px;
+    }
+
+}
